@@ -59,7 +59,7 @@ class Haldua extends StatelessWidget {
       appBar: new AppBar(
         backgroundColor: Colors.blue,
         title: new Text(
-          "berita terbaru",
+          "berita terbaru blaabla",
           style: new TextStyle(color: Colors.white),
         ),
       ),
